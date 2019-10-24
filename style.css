@@ -1,0 +1,177 @@
+@font-face {
+    font-family: Montserrat Extra Bold;
+    src: url(Fontes/Montserrat-ExtraBold.ttf)
+}
+
+@font-face {
+    font-family: Montserrat Regular;
+    src: url(Fontes/Montserrat-Regular.ttf)
+}
+
+/* Introdução */
+.introducao {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 829px;
+    background-color: black;
+}
+
+.rosto {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1680px;
+    height: 2535
+}
+
+.logoSTUDI {
+    position: absolute;
+    top: 0;
+    left: 240px;
+    font-size: 38px;
+    line-height: 17px;
+    color: #ffffff;
+    font-family: Montserrat Extra Bold;
+    font-weight: 900;
+    text-align: center;
+}
+
+.logoON {
+    position: absolute;
+    top: 0;
+    left: 362px;
+    font-size: 38px;
+    line-height: 17px;
+    color: #ffc500;
+    font-family: Montserrat Extra Bold;
+    font-weight: 900;
+    text-align: center;
+}
+
+.eventos {
+    position: absolute;
+    top: 55px;
+    left: 354px;
+    font-size: 14px;
+    color: #fff;
+    font-family: Montserrat Regular;
+    font-weight: 300;
+}
+
+.logo {
+    position: absolute;
+    font-size: 100px;
+    font-family: Montserrat Extra Bold;
+    font-weight: 700;
+}
+
+#creative {
+    top: 150px;
+    left: 800px;
+    color: #ffc500;
+}
+
+#minds {
+    top: 250px;
+    left: 800px;
+    color: #fff;
+}
+
+.botaoIntroducao {
+    position: absolute;
+    top: 515px;
+    left: 800px;
+    width: 174px;
+    height: 51px;
+    border-radius: 26px;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    font-size: 15px;
+    color: #ffc500;
+    font-family: Montserrat Extra Bold;
+    font-weight: 700;
+    text-align: center;
+}
+
+.chamada {
+    position: absolute;
+    font-size: 15px;
+    letter-spacing: 3px;
+    font-family: Montserrat Regular;
+    font-weight: 400;
+}
+
+#proximoEvento {
+    color: #ffc500;
+    top: 180px;
+    left: 800px;
+}
+
+#dataProximoEvento {
+    color: #fff;
+    top: 180px;
+    left: 990px;
+}
+
+.navBar > a {
+    position: absolute;
+    top: 40px;
+    font-size: 14px;
+    color: #fff;
+    font-family: Montserrat Regular;
+    font-weight: 300;
+    text-decoration: none;
+}
+/* Introdução */
+
+
+/* Faixa */
+.faixa {
+    position: absolute;
+    top: 830px;
+    left: 0;
+    width: 100%;
+    height: 209px;
+    background-color: #ffc500;
+}
+
+.dados1 {
+    position: absolute;
+    font-family: Montserrat Extra Bold;
+    font-size: 35px;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.dados2 {
+    position: absolute;
+    font-family: Montserrat Extra Bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: 700;
+}
+/* Faixa */
+
+
+/* Segunda Seção */
+.segundaSecao {
+    position: absolute;
+    top:1040px;
+    left: 0;
+    width: 100%;
+    height: 650px;
+    background-color: #fff;
+}
+
+.corpo {
+    position: relative;
+    top: 75px;
+    left: 16%;
+    width: 670px;
+    height: 500px;
+}
+/* Segunda Seção */
